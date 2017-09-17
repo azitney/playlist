@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>PLayListPage</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>
+  <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+  <script src='./scripttwo.js'></script>
+  <style media="screen">
+    h5 {
+      margin: 0;
+    }
+
+    header {
+      padding-top: 50px;
+      border-bottom: 1px solid black;
+    }
+
+
+    img {
+      height: 100px;
+      width: 100px;
+      margin: 0 10px
+    }
+
+    li {
+      display: inline-block;
+    }
+
+    footer {
+      padding: 10px 0;
+    }
+
+    #albumInfo {
+      height: 200px;
+      border: 1px solid black;
+      margin-bottom: 10px;
+    }
+
+    p {
+      margin: 0;
+    }
+
+    .scroll {
+      overflow-y: scroll;
+    }
+  </style>
+
+</head>
+
+<body>
+  <header class="brown lighten-3">
+    <h5>Click and album to add its tracks to the bin</h5>
+  </header>
+
+  <div class="section brown lighten-5">
+    <div class="container center-align">
+      <ul id="playlist">
+      </ul>
+    </div>
+    <div id="albumInfo" class="scroll container">
+    </div>
+    <div class="container">
+      <div class="row">
+        <a id="clear" class=" black-text brown lighten-1 waves-effect waves-light btn">Clear Tracks</a>
+        <a id="submitBin" class=" black-text brown lighten-1 waves-effect waves-light btn">Submit Bin</a>
+      </div>
+    </div>
+
+  </div>
+  <footer class="brown lighten-1">
+    <div class="footer-copyright ">
+      &copy 2015 Andi Zitney
+    </div>
+  </footer>
+
+</body>
+
+</html>

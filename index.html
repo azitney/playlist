@@ -1,11 +1,79 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <title></title>
-  </head>
-  <body>
-      
 
-  </body>
+<head>
+  <meta charset="utf-8">
+  <title>PLayList</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>
+  <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+  <script src='./script.js'></script>
+
+  <style media="screen">
+    header {
+      padding-bottom: 50px;
+      border-bottom: 1px solid black;
+    }
+
+    footer {
+      padding: 10px 0;
+    }
+
+    .track {
+      background: url('resources/fadedTrack.jpg') center no-repeat;
+      background-size: cover;
+      backopacity: .40;
+    }
+
+    .col {
+      height: 800px;
+      justify-content: center;
+      flex-direction: column;
+    }
+
+    .section {
+      padding: 0;
+    }
+
+    .row {
+      margin-bottom: 0;
+    }
+
+    .pic {
+      margin: 22px 0;
+    }
+  </style>
+
+</head>
+
+<body>
+
+  <header class="brown lighten-3">
+  </header>
+
+  <div class="section  brown lighten-5">
+    <div class=" row">
+      <div class="valign-wrapper col s6">
+        <h1 class=" purple-text text-darken-4">track bin</h1>
+        <a href="plist.html" class=" black-text brown lighten-1 waves-effect waves-light btn">choose tracks</a>
+      </div>
+      <div class="track col s6">
+        <div class="center-align">
+          <div class="pic"></div>
+          <div class="pic"></div>
+          <div class="pic"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <footer class="brown lighten-1">
+    <div class="footer-copyright ">
+      &copy 2015 Andi Zitney
+    </div>
+  </footer>
+
+
+</body>
+
 </html>
