@@ -1,33 +1,74 @@
 {
   "results": [{
-      "id": "2",
+      "id": "ghstnthmchn",
       "title": "Ghost in the Machine",
       "artist": "The Police",
-      "cover_art": "ghost_in_the_machine.jpg"
+      "cover_art": "ghost_in_the_machine.jpg",
+      "tracks" : ["Spirits in the Material World", "Every Little Thing She Does Is Magic", "Invisible Sun", "Hungry for You", "Demolition Man", "Too Much Information", "Rehumanize Yourself", "Omegaman", "Secret Journey", "Darkness"]
+
     },
     {
-      "id": "6",
+      "id": "rd",
       "title": "Red",
       "artist": "Black Uhuru",
-      "cover_art": "red.jpg"
-    },
+      "cover_art": "red.jpg",
+      "tracks" : ["Youth of Eglington", "Sponji Reggae", "Sistren", "Journey", "Utterance", "Puff She Puff", "Rockstone", "Cabrine"]
+        },
     {
-      "id": "22",
+      "id": "thdvsnbll",
       "title": "The Division Bell",
       "artist": "Pink Floyd",
-      "cover_art": "the_division_bell.jpg"
+      "cover_art": "the_division_bell.jpg",
+      "tracks" : ["Cluster One", "What Do You Want From Me", "Poles Apart", "Marooned", "A Great Day for Freedom", "Weating the Inside Out", "Take It Back", "Coming Back to Life", "Keep Talking", "Lost for Words", "High Hopes"]
     },
     {
-      "id": "18",
+      "id": "thrllr",
       "title": "Thriller",
       "artist": "Michael Jackson",
-      "cover_art": "thriller.jpg"
+      "cover_art": "thriller.jpg",
+      "tracks" : ["Wanna Be Startin Somthin", "The Girl Is Mine", "Baby Be Mine", "Thriller", "Beat It", "Billie Jean", "Human Nature", "Pretty Young Thing", "The Lady in My Life"]
     },
     {
-      "id": "55",
+      "id": "21",
       "title": "21",
       "artist": "Adele",
-      "cover_art": "21.jpg"
+      "cover_art": "21.jpg",
+      "tracks" : ["Rolling in the Deep", "Rumor Has It", "Turning Tables", "Don't You Remember", "Set Fire to the Rain", "He Won't Go", "Take It All", "I'll Be Waiting", "One and Only", "Love Song", "Someone Like You", "If It Hadn't Been for Love", "Hiding My Heart", "I Found a Boy"]
+    },
+    {
+      "id": "x",
+      "title": "X",
+      "artist": "Ed Sheeran",
+      "cover_art": "x.jpg",
+      "tracks" : ["One", "I'm a Mess", "Sing", "Don't", "Nina", "Photograph", "Bloodstream", "Tenerife Sea", "Runaway", "The Man", "Thinking Out Loud", "Afire Love", "Take It Back", "Shirtsleeves", "Even My Dad Does Sometimes", "I See Fire", "All of the Stars"]
+    },
+    {
+      "id": "thxprnc",
+      "title": "The 20/20 Experience",
+      "artist": "Justin Timberlake",
+      "cover_art": "the_2020_experience.jpg",
+      "tracks" : ["Pusher Love Girl", "Suit and Tie", "Don't Hold the Wall", "Strawberry Bubblegum", "Tunnel Vision", "Spaceship Coupe", "That Girl", "Let the Groove Get In", "Mirrors", "Blue Ocean Floor"]
+    },
+    {
+      "id": "blrrfc",
+      "title": "Blurryface",
+      "artist": "Twenty One Pilots",
+      "cover_art": "blurryface.jpg",
+      "tracks" : ["Heavydirtysoul", "Stressed Out", "Ride", "Fairly Local", "Tear in my Heart", "Lane Boy", "The Judge", "Doubt", "Polarize", "We Don't Believe What's on TV", "Message Man", "Hometown", "Not Today", "Goner"]
+    },
+    {
+      "id": "brkw",
+      "title": "Breakaway",
+      "artist": "Kelley Clarkson",
+      "cover_art": "breakaway.jpg",
+      "tracks" : ["Breakaway", "Since U Been Gone", "Behind These Hazel Eyes", "Because of You", "Gone", "Addicted", "Where is Your Heart", "Walk Away", "Youd Found Me", "I Hate Myself for Losing You", "Hear Me", "Beautiful Disaster"]
+    },
+    {
+      "id": "27",
+      "title": "The Best Of Hanson",
+      "artist": "Hanson",
+      "cover_art": "the_best_of_hanson.jpg",
+      "tracks" : ["Optomistic", "Every Word I Say", "Where's the Love", "Look at You", "Strong Enough to Break", "I will Come to You", "Underneath", "Hand in Hand", "In a Little While", "Penny and Me", "MMMBop", "This Time Around", "If Only", "A Song to Sing"]
     }
   ]
 }
